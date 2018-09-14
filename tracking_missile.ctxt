@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.target=tracking_missile
-comment0.text=\r\n\ Tracking\ missiles\ for\ the\ stage\ 3\ boss.\r\n\ Follows\ the\ player,\ is\ treated\ like\ any\ other\ enemy.\ \r\n\r\n\ @author\ David\ Roser-Skelton\ (dr311)\r\n\ @version\ 08/03/2017\r\n
-comment1.params=
-comment1.target=void\ act()
-comment2.params=
-comment2.target=void\ followPlayer()
-numComments=3

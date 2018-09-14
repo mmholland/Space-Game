@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.target=HUD
-comment0.text=\r\n\ The\ Heads-Up\ Display\ (HUD),\ displays\ information\ for\ the\ player.\r\n\ Shows\ fuel,\ player\ score,\ active\ powerups.\ \r\n\r\n\ @author\ Matthew\ Holland\ (MMH32),\ David\ Roser-Skelton\ (DR311),\ Ryan\ Clark\r\n
-comment1.params=
-comment1.target=HUD()
-comment2.params=
-comment2.target=void\ act()
-numComments=3

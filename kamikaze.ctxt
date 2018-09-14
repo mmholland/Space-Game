@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.target=kamikaze
-comment0.text=\r\n\ Shooters\ are\ higher-tier\ enemies.\ They\ rapidly\ fly\ towards\ a\ target\ destination\ in\ hopes\ of\ hitting\ the\ player.\r\n\ They\ aren't\ smart,\ but\ unlucky\ spawns\ will\ still\ make\ them\ dangerous.\r\n\ \r\n\ @author\ David\ Roser-Skelton\ (dr311)\r\n\ @version\ 07/03/2017\r\n
-comment1.params=targetX\ targetY
-comment1.target=kamikaze(int,\ int)
-comment2.params=
-comment2.target=void\ act()
-numComments=3

@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.target=debris
-comment0.text=\r\n\ Debris\ is\ the\ simplest\ enemy.\ Flies\ wherever,\ only\ exists\ to\ annoy\ the\ player.\r\n\ It\ inherits\ nearly\ everything\ from\ obstacle_test.\r\n\ \r\n\ @author\ David\ Roser-Skelton\ (dr311)\r\n\ @version\ 14/02/2017\r\n
-comment1.params=
-comment1.target=debris()
-comment2.params=
-comment2.target=void\ act()
-numComments=3
