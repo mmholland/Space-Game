@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=cypherBattleship
+comment0.text=\r\n\ Cypher\ Battleship\ is\ a\ high-tier\ boss\ with\ a\ more\ advanced\ attack\ pattern.\r\n\ It\ fires\ six\ projectiles\ which\ track\ the\ player,\ and\ must\ be\ destroyed.\r\n\ It\ will\ not\ fire\ when\ there\ are\ missiles\ present,\ and\ when\ the\ missiles\ are\ destroyed\ there\ is\ a\ delay.\r\n\ To\ accommodate\ for\ this,\ it\ is\ a\ stationary\ enemy,\ and\ is\ very\ wide\ (400\ pixels\!)\r\n\ \r\n\ @author\ David\ Roser-Skelton\ (dr311)\r\n\ @version\ 08/03/2017\r\n
+comment1.params=phases\ hp\ name
+comment1.target=cypherBattleship(int,\ int,\ java.lang.String)
+comment2.params=shield
+comment2.target=void\ setShield(boolean)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ doAttack()
+comment5.params=
+comment5.target=void\ doIntro()
+comment6.params=dmg
+comment6.target=void\ takeDamage(int)
+numComments=7

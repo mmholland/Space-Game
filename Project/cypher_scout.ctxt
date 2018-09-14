@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=cypher_scout
+comment0.text=\r\n\ Cypher\ Scout\ is\ a\ low-tier\ boss\ with\ some\ basic\ behaviours.\r\n\ Flies\ from\ side-to-side\ on\ the\ screen\ and\ fires\ at\ a\ fixed\ rate.\r\n\ Amount\ of\ lasers\ fired\ and\ frequency\ increases\ as\ it\ takes\ damage.\r\n\ Has\ an\ introductory\ cutscene,\ where\ it\ flies\ in\ and\ displays\ some\ text.\r\n\r\n\ @author\ Matthew\ Holland\ (MMH32)\r\n\ @version\ 23/02/2017\r\n
+comment1.params=phases\ hp\ name
+comment1.target=cypher_scout(int,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ doAttack()
+comment4.params=
+comment4.target=void\ doIntro()
+comment5.params=
+comment5.target=void\ doMovement()
+comment6.params=dmg
+comment6.target=void\ takeDamage(int)
+numComments=7

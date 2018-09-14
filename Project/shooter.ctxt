@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=shooter
+comment0.text=\r\n\ The\ shooter\ enemy\ is\ a\ mid-tier\ enemy.\ It\ moves\ to\ the\ player\ and\ shoots\ when\ nearby.\r\n\ \r\n\ @author\ David\ Roser-Skelton\ (dr311),\ Matthew\ Holland\ (MMH32)\r\n\ @version\ 07/03/2017\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ BeSmart()
+comment3.params=
+comment3.target=void\ Shoot()
+numComments=4

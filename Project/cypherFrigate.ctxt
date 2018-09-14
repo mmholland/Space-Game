@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=cypherFrigate
+comment0.text=\r\n\ Cypher\ Frigates\ are\ mid-tier\ bosses.\ They\ 'jump'\ by\ 80\ units\ in\ all\ directions\ and\ fire\ at\ a\ fixed\ rate.\r\n\ \r\n\ @author\ Ryan\ Clark\r\n\ @version\ 08/03/2017\r\n
+comment1.params=phases\ hp\ name
+comment1.target=cypherFrigate(int,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ space_crop\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ doAttack()
+comment4.params=
+comment4.target=void\ doIntro()
+comment5.params=
+comment5.target=void\ doMovement()
+comment6.params=dmg
+comment6.target=void\ takeDamage(int)
+numComments=7

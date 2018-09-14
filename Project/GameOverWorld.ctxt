@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=GameOverWorld
+comment0.text=\r\n\ A\ seperate\ screen\ to\ show\ the\ game\ over\ screen.\r\n\ \r\n\ @author\ Matthew\ Holland\ (MMH32)\r\n\ @version\ 07/03/2017\r\n
+comment1.params=
+comment1.target=GameOverWorld()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ GameOverWorld.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+numComments=3

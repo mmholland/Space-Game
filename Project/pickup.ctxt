@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=pickup
+comment0.text=\r\n\ Creates\ a\ pickup\ of\ random\ type.\ Each\ pickup\ has\ its\ own\ behaviours.\r\n\ type\ 1\ \=\ fuel\r\n\ type\ 2\ \=\ shield\r\n\ type\ 3\ \=\ x2\r\n\ type\ 4\ \=\ laser\r\n\ type\ 5\ \=\ speed\r\n\ \r\n\ @author\ David\ Roser-Skelton\ (dr311),\ Matthew\ Holland\ (MMH32),\ Ryan\ Clark\r\n\ @version\ 02/03/2017\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ slideDown()
+comment3.params=type
+comment3.target=void\ forceType(int)
+comment4.params=
+comment4.target=void\ checkCollision()
+numComments=5

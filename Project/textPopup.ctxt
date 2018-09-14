@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=textPopup
+comment0.text=\r\n\ A\ useful\ class\ for\ showing\ text\ on\ the\ world.\r\n\ It\ takes\ text\ size\ and\ lifetime\ as\ its\ arguments.\ \r\n\r\n\ @author\ David\ Roser-Skelton\ (dr311)\r\n\ @version\ 02/03/2017\r\n
+comment1.params=size\ lifetime
+comment1.target=textPopup(int,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=newtext
+comment3.target=void\ setText(java.lang.String)
+numComments=4
