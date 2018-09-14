@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=player_laser
+comment0.text=\r\n\ The\ player\ laser\ moves\ up\ and\ removes\ enemies\ it\ touches.\ It\ also\ drops\ pickups.\r\n\ \r\n\ @author\ David\ Roser-Skelton\ (dr311),\ Matthew\ Holland\ (mmh32)\r\n\ @version\ v3\r\n
+comment1.params=
+comment1.target=player_laser()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ CheckCollision()
+comment4.params=
+comment4.target=void\ DoMovement()
+numComments=5
